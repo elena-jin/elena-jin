@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi! 👋
+
+- 🌱 I’m currently learning C and Assembly in CS40 at Tufts
+- 💬 Ask me about metals, ceramics and all things art!
+- 📫 How to reach me: https://www.linkedin.com/in/elena-j/
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I'm from Toronto, Canada
 
 <!--
 **elena-jin/elena-jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
