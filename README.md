@@ -1,6 +1,6 @@
 # 💫 Hi! I'm Elena
 - 🌱 I’m currently studying CS and Art at Tufts & the School of Museum of Fine Arts<br>
-- 💬 Ask me about metals, ceramics and all things art!<br>
+- 💬 Ask me about glassmaking, metals, ceramics and all things art!<br>
 - 😄 Pronouns: she/her/hers<br>
 - ⚡ Fun fact: I'm from Toronto, Canada<br>
 
